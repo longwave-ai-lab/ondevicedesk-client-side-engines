@@ -1,4 +1,4 @@
-# OnDevice Desk — Zero-Upload Client-Side Browser Utility Engines
+# OnDevice Desk: Zero-Upload Client-Side Browser Utility Engines
 
 > **100% Client-Side WebAssembly & Canvas Reference Architecture** powering **[OnDevice Desk](https://ondevicedesk.com)** across 4 specialized browser studios (**1,850+ programmatic tool presets** with **0 bytes uploaded** to any server).
 
@@ -21,7 +21,7 @@
 
 ## Why Client-Side Browser Utilities Beat Cloud Converters
 
-Most online "free" passport photo makers, PDF redactors, and bank statement converters upload your sensitive files to remote cloud servers. Worse, many browser PDF tools merely draw a black `<rect>` annotation over confidential text without removing the underlying PDF content stream—meaning anyone can press `Ctrl+F` or copy-paste the hidden Social Security Number or account number underneath.
+Most online "free" passport photo makers, PDF redactors, and bank statement converters upload your sensitive files to remote cloud servers. Worse, many browser PDF tools merely draw a black `<rect>` annotation over confidential text without removing the underlying PDF content stream, meaning anyone can press `Ctrl+F` or copy-paste the hidden Social Security Number or account number underneath.
 
 **OnDevice Desk** solves both problems by executing every byte of image, PDF, and financial math inside local browser memory (`Web Workers`, `OffscreenCanvas`, and typed arrays):
 
@@ -59,4 +59,4 @@ Instead of forcing founders and freelancers to guess inputs by trial and error, 
 
 ## License
 
-MIT License — Created and maintained by **[Longwave AI Lab](https://github.com/longwave-ai-lab)**.
+MIT License. Created and maintained by **[Longwave AI Lab](https://github.com/longwave-ai-lab)**.
