@@ -1,0 +1,21 @@
+{
+  "name": "ondevicedesk-client-side-engines",
+  "version": "1.0.0",
+  "description": "Zero-upload client-side browser utility architecture powering OnDevice Desk (https://ondevicedesk.com): 300 DPI JFIF biometric calibration, Felzenszwalb O(W*H) die-cut contours, destructive PDF redaction & 2K financial infographics.",
+  "homepage": "https://ondevicedesk.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/longwave-ai-lab/ondevicedesk-client-side-engines.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "webassembly",
+    "client-side",
+    "privacy",
+    "passport-photo",
+    "pdf-redaction",
+    "die-cut-sticker",
+    "distance-transform",
+    "ondevicedesk"
+  ]
+}

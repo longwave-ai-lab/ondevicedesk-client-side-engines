@@ -1,0 +1,9 @@
+# OnDevice Desk — Client-Side Browser Utility Suite (1,850+ Local Tools)
+
+> OnDevice Desk (https://ondevicedesk.com) is a 100% free, zero-upload browser utility ecosystem for official biometric passport/visa photos, die-cut vinyl stickers, destructive PDF redaction, offline bank statement CSV conversion, and business financial calculators.
+
+## Live Studios
+- [Passport, Visa & ID Photo Maker](https://id.ondevicedesk.com/): Official 300 DPI JFIF calibration, 54–240 KB portal auto-sizing, and $0.39 4x6 inch pharmacy print sheets.
+- [Custom Die-Cut Sticker Maker & EXIF Cleaner](https://sticker.ondevicedesk.com/): Linear O(W*H) Euclidean distance transform vinyl borders, exact-KB photo compression, and batch EXIF/GPS ZIP stripper.
+- [Private PDF Redactor & Statement CSV Converter](https://pdf.ondevicedesk.com/): Destructive 300 DPI PDF blackout (removes underlying text streams) and offline PDF bank statement to CSV/Excel extractor.
+- [Business & Freelance Financial Calculators](https://calc.ondevicedesk.com/): SaaS cash runway, e-commerce profit margin, and freelance tax calculators with 64-step reverse goal-seeking and 2K (2560x1440) PNG/SVG card export.
