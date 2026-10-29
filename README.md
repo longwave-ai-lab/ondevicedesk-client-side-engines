@@ -49,6 +49,7 @@ Instead of forcing founders and freelancers to guess inputs by trial and error, 
 
 ## Machine-Readable AI & RAG Documentation (`llms.txt` & Sitemaps)
 
+- **Master Cross-Subdomain Sitemap Index (1,850 Routes)**: [https://ondevicedesk.com/sitemap-index.xml](https://ondevicedesk.com/sitemap-index.xml) · [PWA Web Manifest](https://ondevicedesk.com/manifest.webmanifest)
 - **Primary Studio Index**: [https://ondevicedesk.com/llms.txt](https://ondevicedesk.com/llms.txt) · [Full Reference](https://ondevicedesk.com/llms-full.txt)
 - **Biometric ID Studio**: [https://id.ondevicedesk.com/llms.txt](https://id.ondevicedesk.com/llms.txt) · [Sitemap (500 Routes)](https://id.ondevicedesk.com/sitemap.xml)
 - **Sticker & Media Studio**: [https://sticker.ondevicedesk.com/llms.txt](https://sticker.ondevicedesk.com/llms.txt) · [Sitemap (450 Routes)](https://sticker.ondevicedesk.com/sitemap.xml)

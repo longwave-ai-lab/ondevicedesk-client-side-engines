@@ -1,9 +1,38 @@
-# OnDevice Desk — Client-Side Browser Utility Suite (1,850+ Local Tools)
+# PassportPhoto Studio — Free & 100% Private Biometric Passport, Visa & ID Photo Maker
 
-> OnDevice Desk (https://ondevicedesk.com) is a 100% free, zero-upload browser utility ecosystem for official biometric passport/visa photos, die-cut vinyl stickers, destructive PDF redaction, offline bank statement CSV conversion, and business financial calculators.
+> 100% client-side browser utility that creates official government-compliant passport, visa, and ID photos (US DS-160 2x2 in, Schengen 35x45 mm, UK HMPO, Vietnam CCCD 4x6 cm, and 100+ countries) with exact 300 DPI JFIF header injection, binary-searched KB bounds, and printable 4x6 inch pharmacy sheets.
 
-## Live Studios
-- [Passport, Visa & ID Photo Maker](https://id.ondevicedesk.com/): Official 300 DPI JFIF calibration, 54–240 KB portal auto-sizing, and $0.39 4x6 inch pharmacy print sheets.
-- [Custom Die-Cut Sticker Maker & EXIF Cleaner](https://sticker.ondevicedesk.com/): Linear O(W*H) Euclidean distance transform vinyl borders, exact-KB photo compression, and batch EXIF/GPS ZIP stripper.
-- [Private PDF Redactor & Statement CSV Converter](https://pdf.ondevicedesk.com/): Destructive 300 DPI PDF blackout (removes underlying text streams) and offline PDF bank statement to CSV/Excel extractor.
-- [Business & Freelance Financial Calculators](https://calc.ondevicedesk.com/): SaaS cash runway, e-commerce profit margin, and freelance tax calculators with 64-step reverse goal-seeking and 2K (2560x1440) PNG/SVG card export.
+## Core Capabilities & Verifiable Proof
+- Zero Cloud Uploads: 100% of portrait cropping, eye-line alignment, and JPEG encoding executes inside the user browser (0 bytes uploaded).
+- Exact 300 DPI JFIF Calibration: Writes binary APP0 density markers [1, 1, 44, 1, 44] so online government portals never reject for low DPI.
+- Portal File Size Compliance: 7-step binary search + COM padding guarantees file sizes stay strictly within government portal limits (e.g., 54 KB to 240 KB for US State Dept).
+- 4x6 Inch Pharmacy Print Sheet: Tiles 4, 6, or 8 passport photos on an 1800x1200 px (300 DPI) canvas with scissor cutlines for $0.39 local pharmacy printing.
+- 100% Free & Open Access: Single-photo downloads and 4, 6, or 8-photo 4x6 print sheets are completely free with zero watermarks and no sign-up required.
+
+## Machine-Readable Documentation & Sitemaps
+- [Main Interactive Workbench](https://id.ondevicedesk.com/)
+- [Full Technical & Specification Reference](https://id.ondevicedesk.com/llms-full.txt)
+- [XML Sitemap (500 Programmatic Tool Routes)](https://id.ondevicedesk.com/sitemap.xml)
+- [Programmatic Route Manifests JSON](https://id.ondevicedesk.com/pseo-routes.json)
+
+## Top Programmatic Utility Presets
+- [US Passport Photo Size & Biometric Tool (600x600 300 DPI)](https://id.ondevicedesk.com/us-passport-photo-tool): Create official United States Passport photos with exact 51x51mm dimensions, 300 DPI JFIF injection, and 100% offline client-side privacy.
+- [United States Visa Photo Size & Biometric Tool (602x602 300 DPI)](https://id.ondevicedesk.com/us-visa-photo-tool): Create official United States Visa photos with exact 51x51mm dimensions, 300 DPI JFIF injection, and 100% offline client-side privacy.
+- [United States National ID Card Photo Size & Biometric Tool (602x602 300 DPI)](https://id.ondevicedesk.com/us-id-card-photo-tool): Create official United States National ID Card photos with exact 51x51mm dimensions, 300 DPI JFIF injection, and 100% offline client-side privacy.
+- [United States Driving License Photo Size & Biometric Tool (449x449 300 DPI)](https://id.ondevicedesk.com/us-driving-license-photo-tool): Create official United States Driving License photos with exact 38x38mm dimensions, 300 DPI JFIF injection, and 100% offline client-side privacy.
+- [United States Residence Permit Photo Size & Biometric Tool (602x602 300 DPI)](https://id.ondevicedesk.com/us-residence-permit-photo-tool): Create official United States Residence Permit photos with exact 51x51mm dimensions, 300 DPI JFIF injection, and 100% offline client-side privacy.
+- [Canada Passport Photo Size & Biometric Tool (591x827 300 DPI)](https://id.ondevicedesk.com/ca-passport-photo-tool): Create official Canada Passport photos with exact 50x70mm dimensions, 300 DPI JFIF injection, and 100% offline client-side privacy.
+- [Canada Visa Photo Size & Biometric Tool (413x531 300 DPI)](https://id.ondevicedesk.com/ca-visa-photo-tool): Create official Canada Visa photos with exact 35x45mm dimensions, 300 DPI JFIF injection, and 100% offline client-side privacy.
+- [Canada National ID Card Photo Size & Biometric Tool (413x531 300 DPI)](https://id.ondevicedesk.com/ca-id-card-photo-tool): Create official Canada National ID Card photos with exact 35x45mm dimensions, 300 DPI JFIF injection, and 100% offline client-side privacy.
+- [Canada Driving License Photo Size & Biometric Tool (413x531 300 DPI)](https://id.ondevicedesk.com/ca-driving-license-photo-tool): Create official Canada Driving License photos with exact 35x45mm dimensions, 300 DPI JFIF injection, and 100% offline client-side privacy.
+- [Canada Residence Permit Photo Size & Biometric Tool (413x531 300 DPI)](https://id.ondevicedesk.com/ca-residence-permit-photo-tool): Create official Canada Residence Permit photos with exact 35x45mm dimensions, 300 DPI JFIF injection, and 100% offline client-side privacy.
+- [Mexico Passport Photo Size & Biometric Tool (413x531 300 DPI)](https://id.ondevicedesk.com/mx-passport-photo-tool): Create official Mexico Passport photos with exact 35x45mm dimensions, 300 DPI JFIF injection, and 100% offline client-side privacy.
+- [Mexico Visa Photo Size & Biometric Tool (413x531 300 DPI)](https://id.ondevicedesk.com/mx-visa-photo-tool): Create official Mexico Visa photos with exact 35x45mm dimensions, 300 DPI JFIF injection, and 100% offline client-side privacy.
+- [Mexico National ID Card Photo Size & Biometric Tool (413x531 300 DPI)](https://id.ondevicedesk.com/mx-id-card-photo-tool): Create official Mexico National ID Card photos with exact 35x45mm dimensions, 300 DPI JFIF injection, and 100% offline client-side privacy.
+- [Mexico Driving License Photo Size & Biometric Tool (413x531 300 DPI)](https://id.ondevicedesk.com/mx-driving-license-photo-tool): Create official Mexico Driving License photos with exact 35x45mm dimensions, 300 DPI JFIF injection, and 100% offline client-side privacy.
+- [Mexico Residence Permit Photo Size & Biometric Tool (413x531 300 DPI)](https://id.ondevicedesk.com/mx-residence-permit-photo-tool): Create official Mexico Residence Permit photos with exact 35x45mm dimensions, 300 DPI JFIF injection, and 100% offline client-side privacy.
+- [United Kingdom Passport Photo Size & Biometric Tool (413x531 300 DPI)](https://id.ondevicedesk.com/gb-passport-photo-tool): Create official United Kingdom Passport photos with exact 35x45mm dimensions, 300 DPI JFIF injection, and 100% offline client-side privacy.
+- [United Kingdom Visa Photo Size & Biometric Tool (413x531 300 DPI)](https://id.ondevicedesk.com/gb-visa-photo-tool): Create official United Kingdom Visa photos with exact 35x45mm dimensions, 300 DPI JFIF injection, and 100% offline client-side privacy.
+- [United Kingdom National ID Card Photo Size & Biometric Tool (413x531 300 DPI)](https://id.ondevicedesk.com/gb-id-card-photo-tool): Create official United Kingdom National ID Card photos with exact 35x45mm dimensions, 300 DPI JFIF injection, and 100% offline client-side privacy.
+- [United Kingdom Driving License Photo Size & Biometric Tool (413x531 300 DPI)](https://id.ondevicedesk.com/gb-driving-license-photo-tool): Create official United Kingdom Driving License photos with exact 35x45mm dimensions, 300 DPI JFIF injection, and 100% offline client-side privacy.
+- [United Kingdom Residence Permit Photo Size & Biometric Tool (413x531 300 DPI)](https://id.ondevicedesk.com/gb-residence-permit-photo-tool): Create official United Kingdom Residence Permit photos with exact 35x45mm dimensions, 300 DPI JFIF injection, and 100% offline client-side privacy.
