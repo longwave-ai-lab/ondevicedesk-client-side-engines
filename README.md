@@ -47,6 +47,24 @@ Instead of forcing founders and freelancers to guess inputs by trial and error, 
 
 ---
 
+## Open-Core Source Code Map (`src/`)
+
+All client-side algorithmic workers and WebAssembly / OPFS runtime bridges are published in TypeScript under `src/`:
+
+| Module Path | Architectural Responsibility |
+| :--- | :--- |
+| [`src/engines/biometric-photo.worker.ts`](./src/engines/biometric-photo.worker.ts) | Binary `APP0` (`0xFFE0`) `300 DPI` JFIF header injector, 8-connected perimeter flood-fill background replacement, and 7-step binary search JPEG kilobyte targeting (`0xFFFE` COM padding). |
+| [`src/engines/diecut-sticker.worker.ts`](./src/engines/diecut-sticker.worker.ts) | Separable 1D lower-envelope parabolic Euclidean Distance Transform ($O(W \times H)$) for smooth die-cut vinyl borders and kiss-cut paths. |
+| [`src/engines/exif-sanitizer.worker.ts`](./src/engines/exif-sanitizer.worker.ts) | Binary `APP1` EXIF/GPS/XMP segment stripper for JPEG and PNG (`tEXt`/`iTXt`/`eXIf`) with in-memory `fflate` batch ZIP export. |
+| [`src/engines/pdf-redact.worker.ts`](./src/engines/pdf-redact.worker.ts) | PDF 1.x content-stream tokenizer, split-span kerning PII clusterer (`±2.5pt`), and destructive `300 DPI` pixel-burn redaction. |
+| [`src/engines/bank-statement.worker.ts`](./src/engines/bank-statement.worker.ts) | Spatial column reconstruction from PDF text spans into structured CSV / Excel financial ledger rows. |
+| [`src/engines/calc-engine.worker.ts`](./src/engines/calc-engine.worker.ts) | Deterministic SaaS, e-commerce, and freelance financial formulas with 64-iteration monotonic bisection reverse goal-seeking (`±0.001`). |
+| [`src/engines/infographic.worker.ts`](./src/engines/infographic.worker.ts) | Client-side `2560×1440` (2K) financial summary card renderer and RFC 1950 zlib PNG binary encoder. |
+| [`src/engines/whisper-subtitle.worker.ts`](./src/engines/whisper-subtitle.worker.ts) | Local WebAssembly audio framing and subtitle timestamp generator (`SRT` / `VTT`). |
+| [`src/runtime/`](./src/runtime/index.ts) | `Cross-Origin-Embedder-Policy` (`COEP`) capability detector, WebAssembly SIMD feature probe, Origin Private File System (`OPFS`) model cache, and Web Worker pool manager. |
+
+---
+
 ## Machine-Readable AI & RAG Documentation (`llms.txt` & Sitemaps)
 
 - **Master Cross-Subdomain Sitemap Index (1,850 Routes)**: [https://ondevicedesk.com/sitemap-index.xml](https://ondevicedesk.com/sitemap-index.xml) · [PWA Web Manifest](https://ondevicedesk.com/manifest.webmanifest)
